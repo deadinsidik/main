@@ -1,2 +1,2 @@
-a=int(int)
-print a
+b=int(int)
+print (b)
